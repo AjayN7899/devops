@@ -1,4 +1,3 @@
-i am ajay
 USER ID 1126288301
 
 
@@ -13,4 +12,4 @@ wifi
 
 192.168.0.1
 
-user name : admini am ajay
+user name : admin
